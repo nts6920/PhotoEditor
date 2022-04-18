@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3F3356</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBLack">#000000</color>
+    <color name="coloractionbar">#ffff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorWhite">#ffff</color>
+    <color name="colorBlue">#03A9F4</color>
+    <color name="colorGray">#66727373</color>
+    <color name="color_crystal">#7DD1D1C7</color>
+    <color name="color_red">#F44336</color>
+    <color name="color_gb">#009688</color>
+    <color name="color_yealow">#fff0</color>
+    <color name="color_start_progress">#645AFF</color>
+    <color name="color_end_progress">#A29DED</color>
+    <color name="color_normal">#E5E5E5</color>
+    <color name="color_ic_sticker">#F2F2F2</color>
+</resources>

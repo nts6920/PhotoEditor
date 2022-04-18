@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Sample_Project/tapbi.photoeditor/app/src/main/res/layout/edit_fragment.xml" value="0.1" />
+        <entry key="..\:/Android_Sample_Project/tapbi.photoeditor/app/src/main/res/layout/item_filter.xml" value="0.13558743169398907" />
+        <entry key="..\:/Android_Sample_Project/tapbi.photoeditor/ucrop/src/main/res/layout/ucrop_controls.xml" value="0.1" />
+        <entry key="..\:/Android_Sample_Project/tapbi.photoeditor/ucrop/src/main/res/layout/ucrop_layout_rotate_wheel.xml" value="0.10230263157894737" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/drawable/background_gradient.xml" value="0.1" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/drawable/bottom_sheet.xml" value="0.20462962962962963" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/drawable/custom_bottom_blue.xml" value="0.1" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/drawable/custom_button_white.xml" value="0.1" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/font/app_custom_font_family.xml" value="0.1" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/layout/bottom_sheet.xml" value="0.22" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/layout/choose_photo_fragment.xml" value="0.3546875" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/layout/item_album.xml" value="0.25" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/layout/splash_fragment.xml" value="0.2" />
+        <entry key="..\:/LongNH/PhotoEditor/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/LongNH/PhotoEditor/ucrop/src/main/res/layout/ucrop_activity_photobox.xml" value="0.3390625" />
+        <entry key="..\:/LongNH/PhotoEditor/ucrop/src/main/res/layout/ucrop_aspect_ratio.xml" value="0.3390625" />
+        <entry key="..\:/LongNH/PhotoEditor/ucrop/src/main/res/layout/ucrop_controls.xml" value="0.3390625" />
+        <entry key="..\:/LongNH/PhotoEditor/ucrop/src/main/res/layout/ucrop_fragment_photobox.xml" value="0.3390625" />
+        <entry key="..\:/LongNH/PhotoEditor/ucrop/src/main/res/layout/ucrop_layout_rotate_wheel.xml" value="0.3390625" />
+        <entry key="..\:/LongNH/PhotoEditor/ucrop/src/main/res/layout/ucrop_view.xml" value="0.3390625" />
+        <entry key="..\:/Users/nts69/Music/photoeditor/tapbi.photoeditor/ucrop/src/main/res/drawable/ucrop_ic_next.xml" value="0.11611842105263158" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable-v24/image_item_color.xml" value="0.23421052631578948" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable-xxhdpi/custom_blue_bound.xml" value="0.22138157894736843" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable-xxhdpi/custom_white_bound.xml" value="0.22138157894736843" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable-xxhdpi/option_not_select_item_filter.xml" value="0.1" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable-xxhdpi/option_select_item_filter.xml" value="0.1" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/background_gradient.xml" value="0.18888888888888888" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/custom_background_blue.xml" value="0.24010416666666667" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/custom_background_grey.xml" value="0.2243421052631579" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/custom_background_white.xml" value="0.30648148148148147" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/custom_bottom_sheet_background.xml" value="0.1517915309446254" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/custom_bound.xml" value="0.25" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/custom_rounded_dialog.xml" value="0.30648148148148147" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/image_item_color.xml" value="0.15921052631578947" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/drawable/img_selector.xml" value="0.23421052631578948" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/font/app_custom_font_family.xml" value="0.1680921052631579" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/activity_main.xml" value="0.2402088772845953" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/add_text_dialog.xml" value="0.15846994535519127" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/bottom_tools.xml" value="0.25" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/choose_photo_fragment.xml" value="0.3546875" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/crop_fragment.xml" value="0.1" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/custom_exit_dialog.xml" value="0.33" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/custom_loading_dialog.xml" value="0.13026315789473683" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/dialog_fragment.xml" value="0.3546875" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/draw_fragment.xml" value="0.25" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/edit_fragment.xml" value="0.25" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/filter_fragment.xml" value="0.18" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/fragment_draw_color.xml" value="0.1" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/fragment_draw_size.xml" value="0.17315573770491804" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/fragment_edit.xml" value="0.19739583333333333" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/item_album.xml" value="0.3546875" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/item_draw_color.xml" value="0.67" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/item_draw_size.xml" value="0.75" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/item_filter.xml" value="0.25" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/item_font.xml" value="0.19901315789473684" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/item_sticker.xml" value="0.3546875" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/share_fragment.xml" value="0.3546875" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/splash_fragment.xml" value="0.3546875" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/sticker_fragment.xml" value="0.1" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/text_dialog_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/text_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/layout/toolbar.xml" value="0.3541666666666667" />
+        <entry key="..\:/tapbi.photoeditor/app/src/main/res/xml/file_paths.xml" value="0.3079710144927536" />
+        <entry key="..\:/tapbi.photoeditor/sticker/src/main/res/drawable-hdpi/sticker_transparent_background.xml" value="0.3527777777777778" />
+        <entry key="..\:/tapbi.photoeditor/ucrop/src/main/res/layout/custom_loading_dialog.xml" value="0.1" />
+        <entry key="..\:/tapbi.photoeditor/ucrop/src/main/res/layout/ucrop_activity_photobox.xml" value="0.3546875" />
+        <entry key="..\:/tapbi.photoeditor/ucrop/src/main/res/layout/ucrop_aspect_ratio.xml" value="0.2916666666666667" />
+        <entry key="..\:/tapbi.photoeditor/ucrop/src/main/res/layout/ucrop_controls.xml" value="0.33" />
+        <entry key="..\:/tapbi.photoeditor/ucrop/src/main/res/layout/ucrop_fragment_photobox.xml" value="0.2" />
+        <entry key="..\:/tapbi.photoeditor/ucrop/src/main/res/layout/ucrop_layout_rotate_wheel.xml" value="0.3129528985507246" />
+        <entry key="..\:/tapbi.photoeditor/ucrop/src/main/res/layout/ucrop_view.xml" value="0.3079710144927536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

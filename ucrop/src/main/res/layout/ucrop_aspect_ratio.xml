@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/csl_ratio"
+    android:layout_width="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginEnd="@dimen/ucrop_margin25"
+    android:layout_height="@dimen/ucrop_item_ratio_height">
+        <TextView
+            android:id="@+id/tv_ratio"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textSize="14sp"
+            android:text="@string/ucrop_free"
+            android:fontFamily="@font/mulish_medium"
+            android:textColor="@color/ucrop_scale_text_view_selector"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:id="@+id/iv_type_ratio"
+            android:layout_marginBottom="3dp"
+            android:src="@mipmap/ic_white_free_ratio"
+            app:layout_constraintBottom_toTopOf="@id/tv_ratio"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
